@@ -8,7 +8,8 @@ background-color: white;
 #logo {
     color: #4285f4;
     font: 16px/16 pxroboto-regular, Arial, Sans-serif;
-    left: 215px;
+    /*left: 315px;*/
+    text-align: center;
     position: relative;
     top: 76px;
   }
@@ -31,7 +32,7 @@ input {
   list-style-type: none;
   overflow: hidden;
   margin: 0;
-  padding-left: 235;
+  padding-left: 285;
   padding-top: 10;
 
 }
@@ -63,6 +64,10 @@ input {
   color: black;
   font-family: Arial, Sans-serif;
   font-size: 14px;
+  top: 5;
+  left: 0;
+  right: 0;
+  position: absolute;
 }
 
 #nav ul {
