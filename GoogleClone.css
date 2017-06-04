@@ -1,3 +1,10 @@
+body {
+  height: auto;
+width: 1200px;
+margin: 0 auto; /*this will centralize the div, horizontal. so that it is nice looking in the middle on different computer screens. */
+background-color: white;
+}
+
 #logo {
     color: #4285f4;
     font: 16px/16 pxroboto-regular, Arial, Sans-serif;
@@ -7,9 +14,10 @@
   }
 
 input {
-    width: 40%;
+    width: 30%;
     position: relative;
-    top: -90px;
+    right: 330px;
+    top: 40px;
 }
 
 #button {
