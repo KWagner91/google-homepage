@@ -9,23 +9,33 @@ background-color: white;
     color: #4285f4;
     font: 16px/16 pxroboto-regular, Arial, Sans-serif;
     /*left: 315px;*/
-    text-align: center;
+    display: block;
+    /*margin-left: auto;
+    margin-right: auto;
     position: relative;
-    top: 76px;
+    top: 76px;*/
+position: absolute;
+    top: 25%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
   }
 
 input {
-    width: 30%;
-    position: relative;
-    right: 330px;
-    top: 40px;
+    width: 80%;
+    position: absolute;
+    left: 10%;
+    top: 60%;
+
 }
 
 #button {
   font-family: Arial, Sans-serif;
   font-weight: bolder;
   font-size: 14px;
-  top: 100px;
+  bottom: 58%;
+left: 28%;
+position: absolute;
 }
 
 #button ul {
