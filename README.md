@@ -1,13 +1,12 @@
 # The Odin Project - Front End Project Google Clone
 
-#1 HTML/CSS Project as part of the Front End Training (https://www.theodinproject.com/courses/web-development-101)
+First HTML/CSS Project as part of the Front End Training Section of The Odin Project (https://www.theodinproject.com/courses/web-development-101/lessons/html-css): 
+> Build the Google.com homepage (the simple one with just a search box)
 
-Project Requirement: 
-1) Build the Google.com homepage (the simple one with just a search box)
 
-Aims:
-1) Get familiar with HTML/CSS
-2) Work with GitHub
+## Specifications :
+1. Getting familiar with HTML/CSS
+2. Working with GitHub for the first time
 
 
 ### Open in any Webbrowser
